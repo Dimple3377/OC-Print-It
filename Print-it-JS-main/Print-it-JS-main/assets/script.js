@@ -67,7 +67,3 @@ function updateDots() {
     }
   });
 }
-
-//créer une boucle qui parcourt le tableau de slides, qui crée un élément dot à chaque itération, qui insert l'élément dot dans le div dots.
-//1. enlever toute la sélection
-//2.appliquer la class dot_selected aux dots correspondant à currentIndex
